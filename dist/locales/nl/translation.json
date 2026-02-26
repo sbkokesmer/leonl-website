@@ -1,0 +1,56 @@
+{
+  "navbar": {
+    "home": "Startpagina",
+    "about": "Over Ons",
+    "gallery": "Galerij",
+    "contact": "Contact"
+  },
+  "home": {
+    "hero_title": "Vormgeven aan Uw Digitale Toekomst",
+    "hero_subtitle": "Breng uw bedrijf naar een hoger niveau met innovatieve weboplossingen.",
+    "hero_button": "Neem Nu Contact Op",
+    "why_choose_us": "Waarom Voor Ons Kiezen?",
+    "creative_solutions_title": "Creatieve Oplossingen",
+    "creative_solutions_description": "We benaderen elk project met een unieke visie en bieden creatieve oplossingen die uw verwachtingen overtreffen.",
+    "fast_effective_title": "Snel en Effectief",
+    "fast_effective_description": "We leveren snelle en effectieve resultaten door uw projecten op tijd en binnen budget af te ronden.",
+    "reliable_support_title": "Betrouwbare Ondersteuning",
+    "reliable_support_description": "Ook na het project staan we voor u klaar. We bieden betrouwbare technische ondersteuning en adviesdiensten.",
+    "cta_title": "Laten We Uw Project Tot Leven Brengen",
+    "cta_subtitle": "Neem contact met ons op voor uw droomwebsite of -applicatie.",
+    "cta_button": "Vraag een Offerte Aan"
+  },
+  "about": {
+    "title": "Over Ons",
+    "subtitle": "Ons Verhaal en Missie",
+    "paragraph1": "LeoNL is opgericht met de visie om bedrijven in de digitale wereld te versterken. Wij geloven dat een sterke online aanwezigheid cruciaal is voor succes in de huidige competitieve markt. Ons team van gepassioneerde ontwikkelaars, ontwerpers en strategen werkt samen om uitzonderlijke weboplossingen te leveren die zijn afgestemd op uw unieke behoeften.",
+    "paragraph2": "Onze missie is om uw ideeën om te zetten in verbluffende, functionele en gebruiksvriendelijke digitale ervaringen. We zijn toegewijd aan innovatie, kwaliteit en klanttevredenheid, en zorgen ervoor dat elk project dat we uitvoeren niet alleen voldoet aan de verwachtingen, maar deze overtreft. Van concept tot lancering en daarna is LeoNL uw vertrouwde partner in digitale transformatie."
+  },
+  "gallery": {
+    "title": "Onze Galerij",
+    "subtitle": "Ontdek Onze Nieuwste Projecten",
+    "description": "Hier is een glimp van enkele projecten die we met trots hebben opgeleverd. Elk project weerspiegelt onze toewijding aan designexcellentie, technische precisie en klanttevredenheid. We zijn gespecialiseerd in het creëren van visueel aantrekkelijke en zeer functionele websites en applicaties in verschillende sectoren."
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Neem Contact Op Voor Uw Volgende Project",
+    "name": "Naam",
+    "email": "E-mail",
+    "message": "Bericht",
+    "send": "Verstuur Bericht",
+    "address_title": "Ons Kantoor",
+    "address_line1": "123 Digitale Straat",
+    "address_line2": "Tech Stad, 01234",
+    "address_line3": "Land",
+    "phone_title": "Telefoon",
+    "email_title": "E-mail"
+  },
+  "footer": {
+    "company_description": "LeoNL, een professioneel verf- en interieurrenovatiebedrijf, versterkt uw aanwezigheid in de digitale wereld. Neem contact met ons op voor innovatieve ontwerpen en gebruikersgerichte ervaringen.",
+    "quick_links": "Snelle Links",
+    "contact_us": "Neem Contact Op",
+    "email": "E-mail",
+    "phone": "Telefoon",
+    "all_rights_reserved": "Alle Rechten Voorbehouden."
+  }
+}

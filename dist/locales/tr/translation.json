@@ -1,0 +1,56 @@
+{
+  "navbar": {
+    "home": "Anasayfa",
+    "about": "Hakkımızda",
+    "gallery": "Galeri",
+    "contact": "İletişim"
+  },
+  "home": {
+    "hero_title": "Dijital Geleceğinizi Şekillendiriyoruz",
+    "hero_subtitle": "Yenilikçi web çözümleriyle işinizi bir sonraki seviyeye taşıyın.",
+    "hero_button": "Hemen İletişime Geçin",
+    "why_choose_us": "Neden Bizi Seçmelisiniz?",
+    "creative_solutions_title": "Yaratıcı Çözümler",
+    "creative_solutions_description": "Her projeye özgün bir bakış açısıyla yaklaşıyor, beklentilerinizi aşan yaratıcı çözümler sunuyoruz.",
+    "fast_effective_title": "Hızlı ve Etkili",
+    "fast_effective_description": "Projelerinizi zamanında ve bütçenize uygun şekilde tamamlayarak hızlı ve etkili sonuçlar sağlıyoruz.",
+    "reliable_support_title": "Güvenilir Destek",
+    "reliable_support_description": "Proje sonrası da yanınızdayız. Güvenilir teknik destek ve danışmanlık hizmetleri sunuyoruz.",
+    "cta_title": "Projenizi Hayata Geçirelim",
+    "cta_subtitle": "Hayalinizdeki web sitesi veya uygulamanız için bizimle iletişime geçin.",
+    "cta_button": "Teklif Alın"
+  },
+  "about": {
+    "title": "Hakkımızda",
+    "subtitle": "Hikayemiz ve Misyonumuz",
+    "paragraph1": "LeoNL, işletmeleri dijital alanda güçlendirme vizyonuyla kurulmuştur. Günümüzün rekabetçi pazarında güçlü bir çevrimiçi varlığın başarı için çok önemli olduğuna inanıyoruz. Tutkulu geliştiriciler, tasarımcılar ve stratejistlerden oluşan ekibimiz, benzersiz ihtiyaçlarınıza göre uyarlanmış olağanüstü web çözümleri sunmak için işbirliği içinde çalışır.",
+    "paragraph2": "Misyonumuz, fikirlerinizi çarpıcı, işlevsel ve kullanıcı dostu dijital deneyimlere dönüştürmektir. Yeniliğe, kaliteye ve müşteri memnuniyetine bağlıyız, üstlendiğimiz her projenin beklentileri aşmasını sağlıyoruz. Konseptten lansmana ve sonrasına kadar LeoNL, dijital dönüşümde güvenilir ortağınızdır."
+  },
+  "gallery": {
+    "title": "Galerimiz",
+    "subtitle": "Son Projelerimizi Keşfedin",
+    "description": "İşte gururla teslim ettiğimiz bazı projelerimizden bir kesit. Her proje, tasarım mükemmelliğine, teknik hassasiyete ve müşteri memnuniyetine olan bağlılığımızı yansıtmaktadır. Çeşitli sektörlerde görsel olarak çekici ve son derece işlevsel web siteleri ve uygulamalar oluşturma konusunda uzmanız."
+  },
+  "contact": {
+    "title": "İletişim",
+    "subtitle": "Bir Sonraki Projeniz İçin Bize Ulaşın",
+    "name": "Adınız",
+    "email": "E-posta",
+    "message": "Mesajınız",
+    "send": "Mesaj Gönder",
+    "address_title": "Ofisimiz",
+    "address_line1": "123 Dijital Sokak",
+    "address_line2": "Teknoloji Şehri, 01234",
+    "address_line3": "Ülke",
+    "phone_title": "Telefon",
+    "email_title": "E-posta"
+  },
+  "footer": {
+    "company_description": "Profesyonel boya ve iç mekan yenileme firması LeoNL, dijital dünyada varlığınızı güçlendirir. Yenilikçi tasarımlar ve kullanıcı odaklı deneyimler için bize ulaşın.",
+    "quick_links": "Hızlı Bağlantılar",
+    "contact_us": "Bize Ulaşın",
+    "email": "E-posta",
+    "phone": "Telefon",
+    "all_rights_reserved": "Tüm Hakları Saklıdır."
+  }
+}

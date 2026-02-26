@@ -1,0 +1,56 @@
+{
+  "navbar": {
+    "home": "Home",
+    "about": "About Us",
+    "gallery": "Gallery",
+    "contact": "Contact"
+  },
+  "home": {
+    "hero_title": "Shaping Your Digital Future",
+    "hero_subtitle": "Take your business to the next level with innovative web solutions.",
+    "hero_button": "Contact Us Now",
+    "why_choose_us": "Why Choose Us?",
+    "creative_solutions_title": "Creative Solutions",
+    "creative_solutions_description": "We approach every project with a unique perspective, offering creative solutions that exceed your expectations.",
+    "fast_effective_title": "Fast and Effective",
+    "fast_effective_description": "We deliver fast and effective results by completing your projects on time and within budget.",
+    "reliable_support_title": "Reliable Support",
+    "reliable_support_description": "We are with you even after the project. We offer reliable technical support and consulting services.",
+    "cta_title": "Let's Bring Your Project to Life",
+    "cta_subtitle": "Contact us for your dream website or application.",
+    "cta_button": "Get a Quote"
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "Our Story and Mission",
+    "paragraph1": "LeoNL was founded with the vision of empowering businesses in the digital realm. We believe that a strong online presence is crucial for success in today's competitive market. Our team of passionate developers, designers, and strategists work collaboratively to deliver exceptional web solutions tailored to your unique needs.",
+    "paragraph2": "Our mission is to transform your ideas into stunning, functional, and user-friendly digital experiences. We are committed to innovation, quality, and client satisfaction, ensuring that every project we undertake not only meets but exceeds expectations. From concept to launch and beyond, LeoNL is your trusted partner in digital transformation."
+  },
+  "gallery": {
+    "title": "Our Gallery",
+    "subtitle": "Explore Our Latest Projects",
+    "description": "Here's a glimpse of some of the projects we've proudly delivered. Each project reflects our commitment to design excellence, technical precision, and client satisfaction. We specialize in creating visually appealing and highly functional websites and applications across various industries."
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Get in Touch for Your Next Project",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "send": "Send Message",
+    "address_title": "Our Office",
+    "address_line1": "123 Digital Street",
+    "address_line2": "Tech City, 01234",
+    "address_line3": "Country",
+    "phone_title": "Phone",
+    "email_title": "Email"
+  },
+  "footer": {
+    "company_description": "LeoNL, a professional paint and interior renovation firm, strengthens your presence in the digital world. Contact us for innovative designs and user-centric experiences.",
+    "quick_links": "Quick Links",
+    "contact_us": "Contact Us",
+    "email": "Email",
+    "phone": "Phone",
+    "all_rights_reserved": "All Rights Reserved."
+  }
+}
