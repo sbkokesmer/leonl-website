@@ -7,6 +7,7 @@ import About from './pages/About'
 import Gallery from './pages/Gallery'
 import Contact from './pages/Contact'
 import ScrollToTop from './components/ScrollToTop'
+import WhatsAppButton from './components/WhatsAppButton'
 
 function App() {
   return (
@@ -21,6 +22,7 @@ function App() {
           <Route path="/iletisim" element={<Contact />} />
         </Routes>
       </main>
+      <WhatsAppButton />
       <Footer />
     </Router>
   )
