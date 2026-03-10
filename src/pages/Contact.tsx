@@ -8,7 +8,7 @@ const Contact: React.FC = () => {
   const logoUrl = "https://res.cloudinary.com/dqrfaaoie/image/upload/v1772108757/ileonl_x61gna.png"
   const mainImageUrl = "https://res.cloudinary.com/dqrfaaoie/image/upload/v1772120442/leonnllogo_image_mkhcza.png"
   
-  const whatsappNumber = "31612345678"
+  const whatsappNumber = "31687066651"
   const whatsappLink = `https://wa.me/${whatsappNumber}`
 
   const contactInfo = [
@@ -27,8 +27,8 @@ const Contact: React.FC = () => {
     {
       icon: <Phone className="w-6 h-6" />,
       label: t('contact.phone_title'),
-      value: '+31 6 12345678',
-      link: 'tel:+31612345678'
+      value: '+31 6 87066651',
+      link: 'tel:+31687066651'
     }
   ]
 
